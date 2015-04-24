@@ -1,0 +1,11 @@
+{
+  "name": "mashmc-folders",
+  "version": "0.1.0",
+  "description": "Adds files to mashmc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matita <matitald@gmail.com>",
+  "license": "ISC"
+}
