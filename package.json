@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matita/mashmc-folders/issues"
   },
-  "homepage": "https://github.com/matita/mashmc-folders"
+  "homepage": "https://github.com/matita/mashmc-folders",
+  "dependencies": {
+    "title-case": "^1.1.0"
+  }
 }
